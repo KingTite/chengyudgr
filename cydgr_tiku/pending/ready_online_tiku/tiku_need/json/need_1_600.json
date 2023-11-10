@@ -1,0 +1,7202 @@
+[
+    {
+        "end_id": 1, 
+        "hint_average_num": 2.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 3, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 1
+    }, 
+    {
+        "end_id": 2, 
+        "hint_average_num": 2.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 5, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 2
+    }, 
+    {
+        "end_id": 3, 
+        "hint_average_num": 3.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 5, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 3
+    }, 
+    {
+        "end_id": 4, 
+        "hint_average_num": 2.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 5, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 4
+    }, 
+    {
+        "end_id": 5, 
+        "hint_average_num": 2.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 5
+    }, 
+    {
+        "end_id": 6, 
+        "hint_average_num": 2.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 6
+    }, 
+    {
+        "end_id": 7, 
+        "hint_average_num": 2.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 7
+    }, 
+    {
+        "end_id": 8, 
+        "hint_average_num": 2.5, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 8
+    }, 
+    {
+        "end_id": 9, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 9
+    }, 
+    {
+        "end_id": 10, 
+        "hint_average_num": 2.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 10
+    }, 
+    {
+        "end_id": 11, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 11
+    }, 
+    {
+        "end_id": 12, 
+        "hint_average_num": 2.5, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 12
+    }, 
+    {
+        "end_id": 13, 
+        "hint_average_num": 2.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 13
+    }, 
+    {
+        "end_id": 14, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 14
+    }, 
+    {
+        "end_id": 15, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 15
+    }, 
+    {
+        "end_id": 16, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 16
+    }, 
+    {
+        "end_id": 17, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 17
+    }, 
+    {
+        "end_id": 18, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 18
+    }, 
+    {
+        "end_id": 19, 
+        "hint_average_num": 2.2, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 19
+    }, 
+    {
+        "end_id": 20, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 20
+    }, 
+    {
+        "end_id": 21, 
+        "hint_average_num": 2.3, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 21
+    }, 
+    {
+        "end_id": 22, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 22
+    }, 
+    {
+        "end_id": 23, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 23
+    }, 
+    {
+        "end_id": 24, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 24
+    }, 
+    {
+        "end_id": 25, 
+        "hint_average_num": 2.3, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 25
+    }, 
+    {
+        "end_id": 26, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 26
+    }, 
+    {
+        "end_id": 27, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 27
+    }, 
+    {
+        "end_id": 28, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 28
+    }, 
+    {
+        "end_id": 29, 
+        "hint_average_num": 2.3, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 29
+    }, 
+    {
+        "end_id": 30, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 30
+    }, 
+    {
+        "end_id": 31, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 31
+    }, 
+    {
+        "end_id": 32, 
+        "hint_average_num": 2.3, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 32
+    }, 
+    {
+        "end_id": 33, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 33
+    }, 
+    {
+        "end_id": 34, 
+        "hint_average_num": 2.2, 
+        "hint_type": [
+            6, 
+            1
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 34
+    }, 
+    {
+        "end_id": 35, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 35
+    }, 
+    {
+        "end_id": 36, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 36
+    }, 
+    {
+        "end_id": 37, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 37
+    }, 
+    {
+        "end_id": 38, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 38
+    }, 
+    {
+        "end_id": 39, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 39
+    }, 
+    {
+        "end_id": 40, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 40
+    }, 
+    {
+        "end_id": 41, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 41
+    }, 
+    {
+        "end_id": 42, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 42
+    }, 
+    {
+        "end_id": 43, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 43
+    }, 
+    {
+        "end_id": 44, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 44
+    }, 
+    {
+        "end_id": 45, 
+        "hint_average_num": 2.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 45
+    }, 
+    {
+        "end_id": 46, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 46
+    }, 
+    {
+        "end_id": 47, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 47
+    }, 
+    {
+        "end_id": 48, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 48
+    }, 
+    {
+        "end_id": 49, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 49
+    }, 
+    {
+        "end_id": 50, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 50
+    }, 
+    {
+        "end_id": 51, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 51
+    }, 
+    {
+        "end_id": 52, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 52
+    }, 
+    {
+        "end_id": 53, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 53
+    }, 
+    {
+        "end_id": 54, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 54
+    }, 
+    {
+        "end_id": 55, 
+        "hint_average_num": 2.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 55
+    }, 
+    {
+        "end_id": 56, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 56
+    }, 
+    {
+        "end_id": 57, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 57
+    }, 
+    {
+        "end_id": 58, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 58
+    }, 
+    {
+        "end_id": 59, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 59
+    }, 
+    {
+        "end_id": 60, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 60
+    }, 
+    {
+        "end_id": 61, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 61
+    }, 
+    {
+        "end_id": 62, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 62
+    }, 
+    {
+        "end_id": 63, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 63
+    }, 
+    {
+        "end_id": 64, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 64
+    }, 
+    {
+        "end_id": 65, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 5, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 65
+    }, 
+    {
+        "end_id": 66, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 66
+    }, 
+    {
+        "end_id": 67, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 67
+    }, 
+    {
+        "end_id": 68, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 68
+    }, 
+    {
+        "end_id": 69, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 69
+    }, 
+    {
+        "end_id": 70, 
+        "hint_average_num": 2.3, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 70
+    }, 
+    {
+        "end_id": 71, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 71
+    }, 
+    {
+        "end_id": 72, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 72
+    }, 
+    {
+        "end_id": 73, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 73
+    }, 
+    {
+        "end_id": 74, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 74
+    }, 
+    {
+        "end_id": 75, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 75
+    }, 
+    {
+        "end_id": 76, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 76
+    }, 
+    {
+        "end_id": 77, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 77
+    }, 
+    {
+        "end_id": 78, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 78
+    }, 
+    {
+        "end_id": 79, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 79
+    }, 
+    {
+        "end_id": 80, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 80
+    }, 
+    {
+        "end_id": 81, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 81
+    }, 
+    {
+        "end_id": 82, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 82
+    }, 
+    {
+        "end_id": 83, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 83
+    }, 
+    {
+        "end_id": 84, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 84
+    }, 
+    {
+        "end_id": 85, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 85
+    }, 
+    {
+        "end_id": 86, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 86
+    }, 
+    {
+        "end_id": 87, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 87
+    }, 
+    {
+        "end_id": 88, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 88
+    }, 
+    {
+        "end_id": 89, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 89
+    }, 
+    {
+        "end_id": 90, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 90
+    }, 
+    {
+        "end_id": 91, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 91
+    }, 
+    {
+        "end_id": 92, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 92
+    }, 
+    {
+        "end_id": 93, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 93
+    }, 
+    {
+        "end_id": 94, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 94
+    }, 
+    {
+        "end_id": 95, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 95
+    }, 
+    {
+        "end_id": 96, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 96
+    }, 
+    {
+        "end_id": 97, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 97
+    }, 
+    {
+        "end_id": 98, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 98
+    }, 
+    {
+        "end_id": 99, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 99
+    }, 
+    {
+        "end_id": 100, 
+        "hint_average_num": 2.3, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 100
+    }, 
+    {
+        "end_id": 101, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 101
+    }, 
+    {
+        "end_id": 102, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 102
+    }, 
+    {
+        "end_id": 103, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 103
+    }, 
+    {
+        "end_id": 104, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 104
+    }, 
+    {
+        "end_id": 105, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 105
+    }, 
+    {
+        "end_id": 106, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 106
+    }, 
+    {
+        "end_id": 107, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 107
+    }, 
+    {
+        "end_id": 108, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 108
+    }, 
+    {
+        "end_id": 109, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 109
+    }, 
+    {
+        "end_id": 110, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 110
+    }, 
+    {
+        "end_id": 111, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 111
+    }, 
+    {
+        "end_id": 112, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 112
+    }, 
+    {
+        "end_id": 113, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 113
+    }, 
+    {
+        "end_id": 114, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 114
+    }, 
+    {
+        "end_id": 115, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 115
+    }, 
+    {
+        "end_id": 116, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 116
+    }, 
+    {
+        "end_id": 117, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 117
+    }, 
+    {
+        "end_id": 118, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 118
+    }, 
+    {
+        "end_id": 119, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 119
+    }, 
+    {
+        "end_id": 120, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 120
+    }, 
+    {
+        "end_id": 121, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 121
+    }, 
+    {
+        "end_id": 122, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 122
+    }, 
+    {
+        "end_id": 123, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 123
+    }, 
+    {
+        "end_id": 124, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 124
+    }, 
+    {
+        "end_id": 125, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 125
+    }, 
+    {
+        "end_id": 126, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 126
+    }, 
+    {
+        "end_id": 127, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 127
+    }, 
+    {
+        "end_id": 128, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 128
+    }, 
+    {
+        "end_id": 129, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 129
+    }, 
+    {
+        "end_id": 130, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 130
+    }, 
+    {
+        "end_id": 131, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 131
+    }, 
+    {
+        "end_id": 132, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 132
+    }, 
+    {
+        "end_id": 133, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 133
+    }, 
+    {
+        "end_id": 134, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 134
+    }, 
+    {
+        "end_id": 135, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 135
+    }, 
+    {
+        "end_id": 136, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 13, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 136
+    }, 
+    {
+        "end_id": 137, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 137
+    }, 
+    {
+        "end_id": 138, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 138
+    }, 
+    {
+        "end_id": 139, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 139
+    }, 
+    {
+        "end_id": 140, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 140
+    }, 
+    {
+        "end_id": 141, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 141
+    }, 
+    {
+        "end_id": 142, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 142
+    }, 
+    {
+        "end_id": 143, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 143
+    }, 
+    {
+        "end_id": 144, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 144
+    }, 
+    {
+        "end_id": 145, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 145
+    }, 
+    {
+        "end_id": 146, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 146
+    }, 
+    {
+        "end_id": 147, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 147
+    }, 
+    {
+        "end_id": 148, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 148
+    }, 
+    {
+        "end_id": 149, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 149
+    }, 
+    {
+        "end_id": 150, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 150
+    }, 
+    {
+        "end_id": 151, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 151
+    }, 
+    {
+        "end_id": 152, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 152
+    }, 
+    {
+        "end_id": 153, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 153
+    }, 
+    {
+        "end_id": 154, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 154
+    }, 
+    {
+        "end_id": 155, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 155
+    }, 
+    {
+        "end_id": 156, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 156
+    }, 
+    {
+        "end_id": 157, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 157
+    }, 
+    {
+        "end_id": 158, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 158
+    }, 
+    {
+        "end_id": 159, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 159
+    }, 
+    {
+        "end_id": 160, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 160
+    }, 
+    {
+        "end_id": 161, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 161
+    }, 
+    {
+        "end_id": 162, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 162
+    }, 
+    {
+        "end_id": 163, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 163
+    }, 
+    {
+        "end_id": 164, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 164
+    }, 
+    {
+        "end_id": 165, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 165
+    }, 
+    {
+        "end_id": 166, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 166
+    }, 
+    {
+        "end_id": 167, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 167
+    }, 
+    {
+        "end_id": 168, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 168
+    }, 
+    {
+        "end_id": 169, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 169
+    }, 
+    {
+        "end_id": 170, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 170
+    }, 
+    {
+        "end_id": 171, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 171
+    }, 
+    {
+        "end_id": 172, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 172
+    }, 
+    {
+        "end_id": 173, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 173
+    }, 
+    {
+        "end_id": 174, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 174
+    }, 
+    {
+        "end_id": 175, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 175
+    }, 
+    {
+        "end_id": 176, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 176
+    }, 
+    {
+        "end_id": 177, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 177
+    }, 
+    {
+        "end_id": 178, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 178
+    }, 
+    {
+        "end_id": 179, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 179
+    }, 
+    {
+        "end_id": 180, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 180
+    }, 
+    {
+        "end_id": 181, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 181
+    }, 
+    {
+        "end_id": 182, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 182
+    }, 
+    {
+        "end_id": 183, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 183
+    }, 
+    {
+        "end_id": 184, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 184
+    }, 
+    {
+        "end_id": 185, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 185
+    }, 
+    {
+        "end_id": 186, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 186
+    }, 
+    {
+        "end_id": 187, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 187
+    }, 
+    {
+        "end_id": 188, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 188
+    }, 
+    {
+        "end_id": 189, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 189
+    }, 
+    {
+        "end_id": 190, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 190
+    }, 
+    {
+        "end_id": 191, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 191
+    }, 
+    {
+        "end_id": 192, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 192
+    }, 
+    {
+        "end_id": 193, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 193
+    }, 
+    {
+        "end_id": 194, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 194
+    }, 
+    {
+        "end_id": 195, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 195
+    }, 
+    {
+        "end_id": 196, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 196
+    }, 
+    {
+        "end_id": 197, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 197
+    }, 
+    {
+        "end_id": 198, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 198
+    }, 
+    {
+        "end_id": 199, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 199
+    }, 
+    {
+        "end_id": 200, 
+        "hint_average_num": 2.3, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 200
+    }, 
+    {
+        "end_id": 201, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 201
+    }, 
+    {
+        "end_id": 202, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 202
+    }, 
+    {
+        "end_id": 203, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 203
+    }, 
+    {
+        "end_id": 204, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 204
+    }, 
+    {
+        "end_id": 205, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 205
+    }, 
+    {
+        "end_id": 206, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 206
+    }, 
+    {
+        "end_id": 207, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 207
+    }, 
+    {
+        "end_id": 208, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 208
+    }, 
+    {
+        "end_id": 209, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 209
+    }, 
+    {
+        "end_id": 210, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 210
+    }, 
+    {
+        "end_id": 211, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 211
+    }, 
+    {
+        "end_id": 212, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 212
+    }, 
+    {
+        "end_id": 213, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 213
+    }, 
+    {
+        "end_id": 214, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 214
+    }, 
+    {
+        "end_id": 215, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 215
+    }, 
+    {
+        "end_id": 216, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 216
+    }, 
+    {
+        "end_id": 217, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 217
+    }, 
+    {
+        "end_id": 218, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 218
+    }, 
+    {
+        "end_id": 219, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 219
+    }, 
+    {
+        "end_id": 220, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 220
+    }, 
+    {
+        "end_id": 221, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 221
+    }, 
+    {
+        "end_id": 222, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 222
+    }, 
+    {
+        "end_id": 223, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 223
+    }, 
+    {
+        "end_id": 224, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 224
+    }, 
+    {
+        "end_id": 225, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 225
+    }, 
+    {
+        "end_id": 226, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 226
+    }, 
+    {
+        "end_id": 227, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 13, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 227
+    }, 
+    {
+        "end_id": 228, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 13, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 228
+    }, 
+    {
+        "end_id": 229, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 229
+    }, 
+    {
+        "end_id": 230, 
+        "hint_average_num": 2.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 230
+    }, 
+    {
+        "end_id": 231, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 231
+    }, 
+    {
+        "end_id": 232, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 232
+    }, 
+    {
+        "end_id": 233, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 233
+    }, 
+    {
+        "end_id": 234, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 234
+    }, 
+    {
+        "end_id": 235, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 235
+    }, 
+    {
+        "end_id": 236, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 236
+    }, 
+    {
+        "end_id": 237, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 237
+    }, 
+    {
+        "end_id": 238, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 238
+    }, 
+    {
+        "end_id": 239, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 239
+    }, 
+    {
+        "end_id": 240, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 240
+    }, 
+    {
+        "end_id": 241, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 241
+    }, 
+    {
+        "end_id": 242, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 242
+    }, 
+    {
+        "end_id": 243, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 243
+    }, 
+    {
+        "end_id": 244, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 244
+    }, 
+    {
+        "end_id": 245, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 245
+    }, 
+    {
+        "end_id": 246, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 246
+    }, 
+    {
+        "end_id": 247, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 247
+    }, 
+    {
+        "end_id": 248, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 248
+    }, 
+    {
+        "end_id": 249, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 249
+    }, 
+    {
+        "end_id": 250, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 250
+    }, 
+    {
+        "end_id": 251, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 251
+    }, 
+    {
+        "end_id": 252, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 252
+    }, 
+    {
+        "end_id": 253, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 253
+    }, 
+    {
+        "end_id": 254, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 254
+    }, 
+    {
+        "end_id": 255, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 255
+    }, 
+    {
+        "end_id": 256, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 256
+    }, 
+    {
+        "end_id": 257, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 257
+    }, 
+    {
+        "end_id": 258, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 258
+    }, 
+    {
+        "end_id": 259, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 259
+    }, 
+    {
+        "end_id": 260, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 260
+    }, 
+    {
+        "end_id": 261, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 5, 
+        "start_id": 261
+    }, 
+    {
+        "end_id": 262, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 262
+    }, 
+    {
+        "end_id": 263, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 263
+    }, 
+    {
+        "end_id": 264, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 264
+    }, 
+    {
+        "end_id": 265, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 265
+    }, 
+    {
+        "end_id": 266, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 266
+    }, 
+    {
+        "end_id": 267, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 267
+    }, 
+    {
+        "end_id": 268, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 268
+    }, 
+    {
+        "end_id": 269, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 269
+    }, 
+    {
+        "end_id": 270, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 270
+    }, 
+    {
+        "end_id": 271, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 271
+    }, 
+    {
+        "end_id": 272, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 272
+    }, 
+    {
+        "end_id": 273, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 273
+    }, 
+    {
+        "end_id": 274, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 13, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 274
+    }, 
+    {
+        "end_id": 275, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 275
+    }, 
+    {
+        "end_id": 276, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 276
+    }, 
+    {
+        "end_id": 277, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 277
+    }, 
+    {
+        "end_id": 278, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 278
+    }, 
+    {
+        "end_id": 279, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 279
+    }, 
+    {
+        "end_id": 280, 
+        "hint_average_num": 2.3, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 280
+    }, 
+    {
+        "end_id": 281, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 281
+    }, 
+    {
+        "end_id": 282, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 282
+    }, 
+    {
+        "end_id": 283, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 283
+    }, 
+    {
+        "end_id": 284, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 284
+    }, 
+    {
+        "end_id": 285, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 285
+    }, 
+    {
+        "end_id": 286, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 286
+    }, 
+    {
+        "end_id": 287, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 287
+    }, 
+    {
+        "end_id": 288, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 288
+    }, 
+    {
+        "end_id": 289, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 289
+    }, 
+    {
+        "end_id": 290, 
+        "hint_average_num": 2.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 290
+    }, 
+    {
+        "end_id": 291, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 291
+    }, 
+    {
+        "end_id": 292, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 292
+    }, 
+    {
+        "end_id": 293, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 293
+    }, 
+    {
+        "end_id": 294, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 294
+    }, 
+    {
+        "end_id": 295, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 295
+    }, 
+    {
+        "end_id": 296, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 296
+    }, 
+    {
+        "end_id": 297, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 297
+    }, 
+    {
+        "end_id": 298, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 298
+    }, 
+    {
+        "end_id": 299, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 299
+    }, 
+    {
+        "end_id": 300, 
+        "hint_average_num": 2.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 300
+    }, 
+    {
+        "end_id": 301, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 301
+    }, 
+    {
+        "end_id": 302, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 302
+    }, 
+    {
+        "end_id": 303, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 303
+    }, 
+    {
+        "end_id": 304, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 304
+    }, 
+    {
+        "end_id": 305, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 305
+    }, 
+    {
+        "end_id": 306, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 306
+    }, 
+    {
+        "end_id": 307, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 307
+    }, 
+    {
+        "end_id": 308, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 308
+    }, 
+    {
+        "end_id": 309, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 309
+    }, 
+    {
+        "end_id": 310, 
+        "hint_average_num": 2.9, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 310
+    }, 
+    {
+        "end_id": 311, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 311
+    }, 
+    {
+        "end_id": 312, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 312
+    }, 
+    {
+        "end_id": 313, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 313
+    }, 
+    {
+        "end_id": 314, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 314
+    }, 
+    {
+        "end_id": 315, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 315
+    }, 
+    {
+        "end_id": 316, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 316
+    }, 
+    {
+        "end_id": 317, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 317
+    }, 
+    {
+        "end_id": 318, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 318
+    }, 
+    {
+        "end_id": 319, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 319
+    }, 
+    {
+        "end_id": 320, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 320
+    }, 
+    {
+        "end_id": 321, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 321
+    }, 
+    {
+        "end_id": 322, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 322
+    }, 
+    {
+        "end_id": 323, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 323
+    }, 
+    {
+        "end_id": 324, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 324
+    }, 
+    {
+        "end_id": 325, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 325
+    }, 
+    {
+        "end_id": 326, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 326
+    }, 
+    {
+        "end_id": 327, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 327
+    }, 
+    {
+        "end_id": 328, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 328
+    }, 
+    {
+        "end_id": 329, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 329
+    }, 
+    {
+        "end_id": 330, 
+        "hint_average_num": 2.8, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 330
+    }, 
+    {
+        "end_id": 331, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 331
+    }, 
+    {
+        "end_id": 332, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 332
+    }, 
+    {
+        "end_id": 333, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 333
+    }, 
+    {
+        "end_id": 334, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 334
+    }, 
+    {
+        "end_id": 335, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 335
+    }, 
+    {
+        "end_id": 336, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 336
+    }, 
+    {
+        "end_id": 337, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 337
+    }, 
+    {
+        "end_id": 338, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 338
+    }, 
+    {
+        "end_id": 339, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 339
+    }, 
+    {
+        "end_id": 340, 
+        "hint_average_num": 2.2, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 340
+    }, 
+    {
+        "end_id": 341, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 341
+    }, 
+    {
+        "end_id": 342, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 342
+    }, 
+    {
+        "end_id": 343, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 343
+    }, 
+    {
+        "end_id": 344, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 344
+    }, 
+    {
+        "end_id": 345, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 345
+    }, 
+    {
+        "end_id": 346, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 13, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 346
+    }, 
+    {
+        "end_id": 347, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 347
+    }, 
+    {
+        "end_id": 348, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 348
+    }, 
+    {
+        "end_id": 349, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 349
+    }, 
+    {
+        "end_id": 350, 
+        "hint_average_num": 2.8, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 350
+    }, 
+    {
+        "end_id": 351, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 351
+    }, 
+    {
+        "end_id": 352, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 352
+    }, 
+    {
+        "end_id": 353, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 353
+    }, 
+    {
+        "end_id": 354, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 354
+    }, 
+    {
+        "end_id": 355, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 355
+    }, 
+    {
+        "end_id": 356, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 356
+    }, 
+    {
+        "end_id": 357, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 357
+    }, 
+    {
+        "end_id": 358, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 13, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 358
+    }, 
+    {
+        "end_id": 359, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 13, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 359
+    }, 
+    {
+        "end_id": 360, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 360
+    }, 
+    {
+        "end_id": 361, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 361
+    }, 
+    {
+        "end_id": 362, 
+        "hint_average_num": 1.5, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 362
+    }, 
+    {
+        "end_id": 363, 
+        "hint_average_num": 1.8, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 363
+    }, 
+    {
+        "end_id": 364, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 364
+    }, 
+    {
+        "end_id": 365, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 365
+    }, 
+    {
+        "end_id": 366, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 366
+    }, 
+    {
+        "end_id": 367, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 367
+    }, 
+    {
+        "end_id": 368, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 368
+    }, 
+    {
+        "end_id": 369, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 369
+    }, 
+    {
+        "end_id": 370, 
+        "hint_average_num": 2.9, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 370
+    }, 
+    {
+        "end_id": 371, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 371
+    }, 
+    {
+        "end_id": 372, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 372
+    }, 
+    {
+        "end_id": 373, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 373
+    }, 
+    {
+        "end_id": 374, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 374
+    }, 
+    {
+        "end_id": 375, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 375
+    }, 
+    {
+        "end_id": 376, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 376
+    }, 
+    {
+        "end_id": 377, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 377
+    }, 
+    {
+        "end_id": 378, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 378
+    }, 
+    {
+        "end_id": 379, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 379
+    }, 
+    {
+        "end_id": 380, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 380
+    }, 
+    {
+        "end_id": 381, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 381
+    }, 
+    {
+        "end_id": 382, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 382
+    }, 
+    {
+        "end_id": 383, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 383
+    }, 
+    {
+        "end_id": 384, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 384
+    }, 
+    {
+        "end_id": 385, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 385
+    }, 
+    {
+        "end_id": 386, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 386
+    }, 
+    {
+        "end_id": 387, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 387
+    }, 
+    {
+        "end_id": 388, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 388
+    }, 
+    {
+        "end_id": 389, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 389
+    }, 
+    {
+        "end_id": 390, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 390
+    }, 
+    {
+        "end_id": 391, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 391
+    }, 
+    {
+        "end_id": 392, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 392
+    }, 
+    {
+        "end_id": 393, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 393
+    }, 
+    {
+        "end_id": 394, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 394
+    }, 
+    {
+        "end_id": 395, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 395
+    }, 
+    {
+        "end_id": 396, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 396
+    }, 
+    {
+        "end_id": 397, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 397
+    }, 
+    {
+        "end_id": 398, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 398
+    }, 
+    {
+        "end_id": 399, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 399
+    }, 
+    {
+        "end_id": 400, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 400
+    }, 
+    {
+        "end_id": 401, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 401
+    }, 
+    {
+        "end_id": 402, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 402
+    }, 
+    {
+        "end_id": 403, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 403
+    }, 
+    {
+        "end_id": 404, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 13, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 404
+    }, 
+    {
+        "end_id": 405, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 405
+    }, 
+    {
+        "end_id": 406, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 406
+    }, 
+    {
+        "end_id": 407, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 407
+    }, 
+    {
+        "end_id": 408, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 408
+    }, 
+    {
+        "end_id": 409, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 409
+    }, 
+    {
+        "end_id": 410, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 410
+    }, 
+    {
+        "end_id": 411, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 411
+    }, 
+    {
+        "end_id": 412, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 412
+    }, 
+    {
+        "end_id": 413, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 413
+    }, 
+    {
+        "end_id": 414, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 414
+    }, 
+    {
+        "end_id": 415, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 415
+    }, 
+    {
+        "end_id": 416, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 416
+    }, 
+    {
+        "end_id": 417, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 417
+    }, 
+    {
+        "end_id": 418, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 418
+    }, 
+    {
+        "end_id": 419, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 419
+    }, 
+    {
+        "end_id": 420, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 420
+    }, 
+    {
+        "end_id": 421, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 421
+    }, 
+    {
+        "end_id": 422, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 422
+    }, 
+    {
+        "end_id": 423, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 423
+    }, 
+    {
+        "end_id": 424, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 424
+    }, 
+    {
+        "end_id": 425, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 425
+    }, 
+    {
+        "end_id": 426, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 426
+    }, 
+    {
+        "end_id": 427, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 427
+    }, 
+    {
+        "end_id": 428, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 428
+    }, 
+    {
+        "end_id": 429, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 429
+    }, 
+    {
+        "end_id": 430, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 430
+    }, 
+    {
+        "end_id": 431, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 431
+    }, 
+    {
+        "end_id": 432, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 432
+    }, 
+    {
+        "end_id": 433, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 433
+    }, 
+    {
+        "end_id": 434, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 434
+    }, 
+    {
+        "end_id": 435, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 435
+    }, 
+    {
+        "end_id": 436, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 436
+    }, 
+    {
+        "end_id": 437, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 437
+    }, 
+    {
+        "end_id": 438, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 438
+    }, 
+    {
+        "end_id": 439, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 439
+    }, 
+    {
+        "end_id": 440, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 440
+    }, 
+    {
+        "end_id": 441, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 441
+    }, 
+    {
+        "end_id": 442, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 442
+    }, 
+    {
+        "end_id": 443, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 443
+    }, 
+    {
+        "end_id": 444, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 444
+    }, 
+    {
+        "end_id": 445, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 445
+    }, 
+    {
+        "end_id": 446, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 446
+    }, 
+    {
+        "end_id": 447, 
+        "hint_average_num": 1.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 447
+    }, 
+    {
+        "end_id": 448, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 448
+    }, 
+    {
+        "end_id": 449, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 449
+    }, 
+    {
+        "end_id": 450, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 450
+    }, 
+    {
+        "end_id": 451, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 451
+    }, 
+    {
+        "end_id": 452, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 452
+    }, 
+    {
+        "end_id": 453, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 453
+    }, 
+    {
+        "end_id": 454, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 454
+    }, 
+    {
+        "end_id": 455, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 455
+    }, 
+    {
+        "end_id": 456, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 456
+    }, 
+    {
+        "end_id": 457, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 457
+    }, 
+    {
+        "end_id": 458, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 458
+    }, 
+    {
+        "end_id": 459, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 459
+    }, 
+    {
+        "end_id": 460, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 460
+    }, 
+    {
+        "end_id": 461, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 461
+    }, 
+    {
+        "end_id": 462, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 462
+    }, 
+    {
+        "end_id": 463, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 463
+    }, 
+    {
+        "end_id": 464, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 464
+    }, 
+    {
+        "end_id": 465, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 465
+    }, 
+    {
+        "end_id": 466, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 466
+    }, 
+    {
+        "end_id": 467, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 467
+    }, 
+    {
+        "end_id": 468, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 468
+    }, 
+    {
+        "end_id": 469, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 469
+    }, 
+    {
+        "end_id": 470, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 470
+    }, 
+    {
+        "end_id": 471, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 471
+    }, 
+    {
+        "end_id": 472, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 472
+    }, 
+    {
+        "end_id": 473, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 473
+    }, 
+    {
+        "end_id": 474, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 474
+    }, 
+    {
+        "end_id": 475, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 475
+    }, 
+    {
+        "end_id": 476, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 476
+    }, 
+    {
+        "end_id": 477, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 477
+    }, 
+    {
+        "end_id": 478, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 478
+    }, 
+    {
+        "end_id": 479, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 479
+    }, 
+    {
+        "end_id": 480, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 480
+    }, 
+    {
+        "end_id": 481, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 5, 
+        "start_id": 481
+    }, 
+    {
+        "end_id": 482, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 482
+    }, 
+    {
+        "end_id": 483, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 483
+    }, 
+    {
+        "end_id": 484, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 484
+    }, 
+    {
+        "end_id": 485, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 485
+    }, 
+    {
+        "end_id": 486, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 486
+    }, 
+    {
+        "end_id": 487, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 487
+    }, 
+    {
+        "end_id": 488, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 488
+    }, 
+    {
+        "end_id": 489, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 489
+    }, 
+    {
+        "end_id": 490, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 490
+    }, 
+    {
+        "end_id": 491, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 491
+    }, 
+    {
+        "end_id": 492, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 492
+    }, 
+    {
+        "end_id": 493, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 493
+    }, 
+    {
+        "end_id": 494, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 494
+    }, 
+    {
+        "end_id": 495, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 495
+    }, 
+    {
+        "end_id": 496, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 496
+    }, 
+    {
+        "end_id": 497, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 497
+    }, 
+    {
+        "end_id": 498, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 498
+    }, 
+    {
+        "end_id": 499, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 499
+    }, 
+    {
+        "end_id": 500, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 500
+    }, 
+    {
+        "end_id": 501, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 501
+    }, 
+    {
+        "end_id": 502, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 502
+    }, 
+    {
+        "end_id": 503, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 503
+    }, 
+    {
+        "end_id": 504, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 504
+    }, 
+    {
+        "end_id": 505, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 505
+    }, 
+    {
+        "end_id": 506, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 506
+    }, 
+    {
+        "end_id": 507, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 507
+    }, 
+    {
+        "end_id": 508, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 508
+    }, 
+    {
+        "end_id": 509, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 509
+    }, 
+    {
+        "end_id": 510, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 510
+    }, 
+    {
+        "end_id": 511, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 511
+    }, 
+    {
+        "end_id": 512, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 512
+    }, 
+    {
+        "end_id": 513, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 513
+    }, 
+    {
+        "end_id": 514, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 514
+    }, 
+    {
+        "end_id": 515, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 515
+    }, 
+    {
+        "end_id": 516, 
+        "hint_average_num": 1.7, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 516
+    }, 
+    {
+        "end_id": 517, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 517
+    }, 
+    {
+        "end_id": 518, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 518
+    }, 
+    {
+        "end_id": 519, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 519
+    }, 
+    {
+        "end_id": 520, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 520
+    }, 
+    {
+        "end_id": 521, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 521
+    }, 
+    {
+        "end_id": 522, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 522
+    }, 
+    {
+        "end_id": 523, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 523
+    }, 
+    {
+        "end_id": 524, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 524
+    }, 
+    {
+        "end_id": 525, 
+        "hint_average_num": 0.7, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 525
+    }, 
+    {
+        "end_id": 526, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 526
+    }, 
+    {
+        "end_id": 527, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 527
+    }, 
+    {
+        "end_id": 528, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 528
+    }, 
+    {
+        "end_id": 529, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 5, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 529
+    }, 
+    {
+        "end_id": 530, 
+        "hint_average_num": 2.8, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 530
+    }, 
+    {
+        "end_id": 531, 
+        "hint_average_num": 0.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 531
+    }, 
+    {
+        "end_id": 532, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 532
+    }, 
+    {
+        "end_id": 533, 
+        "hint_average_num": 1.3, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 533
+    }, 
+    {
+        "end_id": 534, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 534
+    }, 
+    {
+        "end_id": 535, 
+        "hint_average_num": 0.7, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 535
+    }, 
+    {
+        "end_id": 536, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 536
+    }, 
+    {
+        "end_id": 537, 
+        "hint_average_num": 0.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 537
+    }, 
+    {
+        "end_id": 538, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 538
+    }, 
+    {
+        "end_id": 539, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 539
+    }, 
+    {
+        "end_id": 540, 
+        "hint_average_num": 1.9, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 540
+    }, 
+    {
+        "end_id": 541, 
+        "hint_average_num": 1.2, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 5, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 541
+    }, 
+    {
+        "end_id": 542, 
+        "hint_average_num": 0.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 542
+    }, 
+    {
+        "end_id": 543, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 543
+    }, 
+    {
+        "end_id": 544, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 544
+    }, 
+    {
+        "end_id": 545, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 545
+    }, 
+    {
+        "end_id": 546, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 546
+    }, 
+    {
+        "end_id": 547, 
+        "hint_average_num": 1.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 547
+    }, 
+    {
+        "end_id": 548, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 548
+    }, 
+    {
+        "end_id": 549, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 549
+    }, 
+    {
+        "end_id": 550, 
+        "hint_average_num": 2.9, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 550
+    }, 
+    {
+        "end_id": 551, 
+        "hint_average_num": 0.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 551
+    }, 
+    {
+        "end_id": 552, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 552
+    }, 
+    {
+        "end_id": 553, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 553
+    }, 
+    {
+        "end_id": 554, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 554
+    }, 
+    {
+        "end_id": 555, 
+        "hint_average_num": 0.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 555
+    }, 
+    {
+        "end_id": 556, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 556
+    }, 
+    {
+        "end_id": 557, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 557
+    }, 
+    {
+        "end_id": 558, 
+        "hint_average_num": 0.9, 
+        "hint_type": [
+            4, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 558
+    }, 
+    {
+        "end_id": 559, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 559
+    }, 
+    {
+        "end_id": 560, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 560
+    }, 
+    {
+        "end_id": 561, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 12, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 561
+    }, 
+    {
+        "end_id": 562, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 562
+    }, 
+    {
+        "end_id": 563, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 13, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 563
+    }, 
+    {
+        "end_id": 564, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 564
+    }, 
+    {
+        "end_id": 565, 
+        "hint_average_num": 0.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 565
+    }, 
+    {
+        "end_id": 566, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 5, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 566
+    }, 
+    {
+        "end_id": 567, 
+        "hint_average_num": 0.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 567
+    }, 
+    {
+        "end_id": 568, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 568
+    }, 
+    {
+        "end_id": 569, 
+        "hint_average_num": 0.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 6, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 569
+    }, 
+    {
+        "end_id": 570, 
+        "hint_average_num": 2.9, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 570
+    }, 
+    {
+        "end_id": 571, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 571
+    }, 
+    {
+        "end_id": 572, 
+        "hint_average_num": 0.9, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 572
+    }, 
+    {
+        "end_id": 573, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 573
+    }, 
+    {
+        "end_id": 574, 
+        "hint_average_num": 0.9, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 574
+    }, 
+    {
+        "end_id": 575, 
+        "hint_average_num": 0.6, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 575
+    }, 
+    {
+        "end_id": 576, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 576
+    }, 
+    {
+        "end_id": 577, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 577
+    }, 
+    {
+        "end_id": 578, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 578
+    }, 
+    {
+        "end_id": 579, 
+        "hint_average_num": 0.7, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 579
+    }, 
+    {
+        "end_id": 580, 
+        "hint_average_num": 2.1, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 580
+    }, 
+    {
+        "end_id": 581, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 581
+    }, 
+    {
+        "end_id": 582, 
+        "hint_average_num": 0.7, 
+        "hint_type": [
+            4, 
+            1
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 582
+    }, 
+    {
+        "end_id": 583, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 583
+    }, 
+    {
+        "end_id": 584, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 584
+    }, 
+    {
+        "end_id": 585, 
+        "hint_average_num": 0.6, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 585
+    }, 
+    {
+        "end_id": 586, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 4, 
+        "start_id": 586
+    }, 
+    {
+        "end_id": 587, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 587
+    }, 
+    {
+        "end_id": 588, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            5, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 588
+    }, 
+    {
+        "end_id": 589, 
+        "hint_average_num": 0.9, 
+        "hint_type": [
+            5, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 589
+    }, 
+    {
+        "end_id": 590, 
+        "hint_average_num": 2.9, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 11, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 590
+    }, 
+    {
+        "end_id": 591, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 591
+    }, 
+    {
+        "end_id": 592, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 592
+    }, 
+    {
+        "end_id": 593, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 593
+    }, 
+    {
+        "end_id": 594, 
+        "hint_average_num": 1.0, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 7, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 594
+    }, 
+    {
+        "end_id": 595, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 595
+    }, 
+    {
+        "end_id": 596, 
+        "hint_average_num": 0.8, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 0, 
+        "start_id": 596
+    }, 
+    {
+        "end_id": 597, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 9, 
+        "is_reset": 1, 
+        "pianpi_num": 2, 
+        "start_id": 597
+    }, 
+    {
+        "end_id": 598, 
+        "hint_average_num": 1.4, 
+        "hint_type": [
+            6, 
+            2
+        ], 
+        "idiom_num": 10, 
+        "is_reset": 1, 
+        "pianpi_num": 3, 
+        "start_id": 598
+    }, 
+    {
+        "end_id": 599, 
+        "hint_average_num": 0.6, 
+        "hint_type": [
+            4, 
+            3
+        ], 
+        "idiom_num": 5, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 599
+    }, 
+    {
+        "end_id": 600, 
+        "hint_average_num": 2.0, 
+        "hint_type": [
+            6, 
+            3
+        ], 
+        "idiom_num": 8, 
+        "is_reset": 1, 
+        "pianpi_num": 1, 
+        "start_id": 600
+    }
+]

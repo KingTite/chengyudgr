@@ -1,0 +1,288 @@
+[
+    {
+        "end_time": "", 
+        "end_time_s": 0, 
+        "ending": "祝您官运亨通！", 
+        "fanti_image": "", 
+        "id": 40001, 
+        "image": "", 
+        "priority": 5, 
+        "push_contition": [
+            {
+                "param": "9.2.0", 
+                "type": 3
+            }, 
+            {
+                "type": 1
+            }, 
+            {
+                "param": 20, 
+                "type": 6
+            }
+        ], 
+        "start_time": "", 
+        "start_time_s": 0, 
+        "text": "欢迎大家来到成语大官人，在这里挑战成语的同时还能加官进爵，买房置地，培养门客，丰富的玩法等你体验呦！", 
+        "time_show": 0, 
+        "title": "公告", 
+        "type": 1, 
+        "url": ""
+    }, 
+    {
+        "end_time": "2019-6-13", 
+        "end_time_s": 1560355200, 
+        "ending": "祝大家端午愉快！", 
+        "fanti_image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao1.png", 
+        "id": 40002, 
+        "image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao.png", 
+        "priority": 6, 
+        "push_contition": [
+            {
+                "param": "9.2.0", 
+                "type": 3
+            }, 
+            {
+                "type": 2
+            }, 
+            {
+                "param": 20, 
+                "type": 6
+            }
+        ], 
+        "start_time": "2019-6-5", 
+        "start_time_s": 1559738959, 
+        "text": "竞龙舟，迎端午！端午节成语接龙活动来袭！完成目标既能获得门客-屈原！", 
+        "time_show": 1, 
+        "title": "端午活动", 
+        "type": 2, 
+        "url": ""
+    }, 
+    {
+        "end_time": "", 
+        "end_time_s": 0, 
+        "ending": "祝大人游戏愉快！", 
+        "fanti_image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao1.png", 
+        "id": 40003, 
+        "image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao.png", 
+        "priority": 4, 
+        "push_contition": [
+            {
+                "type": 2
+            }, 
+            {
+                "param": "9.2.0", 
+                "type": 3
+            }, 
+            {
+                "param": "Android_5.0_tyGuest,wechat.alipay,wechat.0-hall20312.tu.chengydgr", 
+                "type": 4
+            }, 
+            {
+                "param": 20, 
+                "type": 6
+            }
+        ], 
+        "start_time": "", 
+        "start_time_s": 0, 
+        "text": "启禀大人，游戏新增了一些有趣的内容，还望大人更新体验！", 
+        "time_show": 0, 
+        "title": "版本更新", 
+        "type": 2, 
+        "url": "https://3g.tuyoo.com/html/LandingPage/idiom.html"
+    }, 
+    {
+        "end_time": "", 
+        "end_time_s": 0, 
+        "ending": "祝您官运亨通！", 
+        "fanti_image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao1.png", 
+        "id": 40004, 
+        "image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao.png", 
+        "priority": 3, 
+        "push_contition": [
+            {
+                "param": "9.2.0", 
+                "type": 3
+            }, 
+            {
+                "param": 1, 
+                "type": 5
+            }, 
+            {
+                "param": 20, 
+                "type": 6
+            }
+        ], 
+        "start_time": "", 
+        "start_time_s": 0, 
+        "text": "我就出现一次！哈哈哈", 
+        "time_show": 0, 
+        "title": "首次登录测试", 
+        "type": 2, 
+        "url": ""
+    }, 
+    {
+        "end_time": "1567923886.0", 
+        "end_time_s": 1567923886, 
+        "ending": "祝大人游戏愉快！", 
+        "fanti_image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao1.png", 
+        "id": 40005, 
+        "image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao.png", 
+        "priority": 2, 
+        "push_contition": [
+            {
+                "param": "1.6.52", 
+                "type": 3
+            }, 
+            {
+                "type": 2
+            }, 
+            {
+                "param": "Android_5.0_facebook,google,guest.googleplay.0-hall20312.googleplay.chengydgr", 
+                "type": 4
+            }, 
+            {
+                "param": 15, 
+                "type": 6
+            }
+        ], 
+        "start_time": "1567751086.0", 
+        "start_time_s": 1567751086, 
+        "text": "启禀大人，最近游戏出现了游戏简繁体切换异常的问题，我们在主页面设置功能里增加了语言选择功能，大人可以设置自己习惯的语言！", 
+        "time_show": 0, 
+        "title": "公告", 
+        "type": 2, 
+        "url": ""
+    }, 
+    {
+        "end_time": "", 
+        "end_time_s": 0, 
+        "ending": "祝大人游戏愉快！", 
+        "fanti_image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao1.png", 
+        "id": 40006, 
+        "image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao.png", 
+        "priority": 2, 
+        "push_contition": [
+            {
+                "param": "1.6.51", 
+                "type": 3
+            }, 
+            {
+                "type": 2
+            }, 
+            {
+                "param": "Android_5.0_facebook,google,guest.googleplay.0-hall20312.googleplay.chengydgr", 
+                "type": 4
+            }, 
+            {
+                "param": 15, 
+                "type": 6
+            }
+        ], 
+        "start_time": "", 
+        "start_time_s": 0, 
+        "text": "启禀大人，最近游戏出现了游戏简繁体切换异常的问题，我们已经修复，而且在主页面设置功能里增加了语言选择功能，请大人及时更新！", 
+        "time_show": 0, 
+        "title": "版本更新", 
+        "type": 2, 
+        "url": "https://play.google.com/store/apps/details?id=org.cocos2d.cygly"
+    }, 
+    {
+        "end_time": "", 
+        "end_time_s": 0, 
+        "ending": "祝大人游戏愉快！", 
+        "fanti_image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao1.png", 
+        "id": 40007, 
+        "image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao.png", 
+        "priority": 2, 
+        "push_contition": [
+            {
+                "param": "1.6.5", 
+                "type": 3
+            }, 
+            {
+                "type": 2
+            }, 
+            {
+                "param": "Android_5.0_facebook,google,guest.googleplay.0-hall20312.googleplay.chengydgr", 
+                "type": 4
+            }, 
+            {
+                "param": 15, 
+                "type": 6
+            }
+        ], 
+        "start_time": "", 
+        "start_time_s": 0, 
+        "text": "启禀大人，最近游戏出现了游戏简繁体切换异常的问题，我们已经修复，而且在主页面设置功能里增加了语言选择功能，请大人及时更新！", 
+        "time_show": 0, 
+        "title": "版本更新", 
+        "type": 2, 
+        "url": "https://play.google.com/store/apps/details?id=org.cocos2d.cygly"
+    }, 
+    {
+        "end_time": "", 
+        "end_time_s": 0, 
+        "ending": "祝大人游戏愉快！", 
+        "fanti_image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao1.png", 
+        "id": 40008, 
+        "image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao.png", 
+        "priority": 2, 
+        "push_contition": [
+            {
+                "param": "1.6.4", 
+                "type": 3
+            }, 
+            {
+                "type": 2
+            }, 
+            {
+                "param": "Android_5.0_facebook,google,guest.googleplay.0-hall20312.googleplay.chengydgr", 
+                "type": 4
+            }, 
+            {
+                "param": 15, 
+                "type": 6
+            }
+        ], 
+        "start_time": "", 
+        "start_time_s": 0, 
+        "text": "启禀大人，最近游戏出现了游戏简繁体切换异常的问题，我们已经修复，而且在主页面设置功能里增加了语言选择功能，请大人及时更新！", 
+        "time_show": 0, 
+        "title": "版本更新", 
+        "type": 2, 
+        "url": "https://play.google.com/store/apps/details?id=org.cocos2d.cygly"
+    }, 
+    {
+        "end_time": "", 
+        "end_time_s": 0, 
+        "ending": "祝大人游戏愉快！", 
+        "fanti_image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao1.png", 
+        "id": 40009, 
+        "image": "https://marketqn.nalrer.cn/gamesbox/chengyugonggao/bg_gonggao.png", 
+        "priority": 2, 
+        "push_contition": [
+            {
+                "param": "1.6.3", 
+                "type": 3
+            }, 
+            {
+                "type": 2
+            }, 
+            {
+                "param": "Android_5.0_facebook,google,guest.googleplay.0-hall20312.googleplay.chengydgr", 
+                "type": 4
+            }, 
+            {
+                "param": 15, 
+                "type": 6
+            }
+        ], 
+        "start_time": "", 
+        "start_time_s": 0, 
+        "text": "启禀大人，最近游戏出现了游戏简繁体切换异常的问题，我们已经修复，而且在主页面设置功能里增加了语言选择功能，请大人及时更新！", 
+        "time_show": 0, 
+        "title": "版本更新", 
+        "type": 2, 
+        "url": "https://play.google.com/store/apps/details?id=org.cocos2d.cygly"
+    }
+]

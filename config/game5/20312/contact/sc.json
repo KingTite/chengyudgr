@@ -1,0 +1,66 @@
+{
+    "login":{
+        "appid":"wxb7d07c42475bca95",
+        "secret":"18dd0be17ade30c8ffe3ee5a913df444",
+        "token":"vrarW2XnLzG32jkKtdYgeG9kd21g3KUO",
+        "encodingaeskey":"GWz927ef3mpTkxX1gLEbe1nWwq3ZTVJkFbynDr6i3Jv"
+    },
+    "answers":{
+        "auto_answer":{
+            "1": {
+                "link":{
+                    "iOS": {
+                        "title":"书卷已经发送至游戏，请点击卡片领取",
+                        "description": "点击下载app，更多玩法、更多福利等着你！",
+                        "url": "https://apps.apple.com/cn/app/成语大官人/id1460777096?from=singlemessage ",
+                        "thumb_url": "https://marketqn.nalrer.cn/gamesbox/shell/card/cygs-wx/lianjietu80x80.jpg"
+                    },
+                    "Android":{
+                        "title":"书卷已经发送至游戏，请点击卡片领取",
+                        "description": "点击下载app，更多玩法、更多福利等着你！",
+                        "url": "http://cydgr.imoyuu.com/idiom.html?from=singlemessage",
+                        "thumb_url": "https://marketqn.nalrer.cn/gamesbox/shell/card/cygs-wx/lianjietu80x80.jpg"
+                    }
+                },
+                "image":{
+                    "media":"image_1"
+                }
+            },
+            "2": {
+                "text":"您好，成语高手客服为您服务",
+                "image":{
+                    "media":"image_1"
+                }
+            },
+            "3": {
+                "text":"您已经领取过今天的奖励，明天再来吧~",
+                "image":{
+                    "media":"image_1"
+                }
+            }
+        },
+        "send_all":[
+            {
+                "title":"检验你语文水平的时间到了，快来玩这个成语小游戏吧！",
+                "pagepath":"pages/index/index?from=miniprogrampage",
+                "thumb_media": "image_2"
+            },
+            {
+                "title":"天天学成语，20天变成语高手！",
+                "pagepath":"pages/index/index?from=miniprogrampage",
+                "thumb_media":"image_2"
+            },
+            {
+                "title":"书卷多多，元气满满，你的小伙伴@你玩成语高手啦！",
+                "pagepath":"pages/index/index?from=miniprogrampage",
+                "thumb_media":"image_2"
+            }
+        ]
+    },
+    "media_file":{
+        "image_1": "https://marketqn.nalrer.cn/gamesbox/shell/card/cygs-wx/erweima.jpg",
+        "image_2": "https://marketqn.nalrer.cn/gamesbox/shell/card/cygs-wx/zhaohuitu.jpg"
+    },
+    "send_msg": "send",
+    "gs_num": 1
+}

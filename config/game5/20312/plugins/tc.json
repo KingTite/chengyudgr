@@ -1,0 +1,46 @@
+{
+	"templates": [
+		{
+			"targets": [
+				"GH"
+			],
+			"plugins": [
+				{
+					"class": "tuyoo5.plugins.gamemgr.gamemgr.TyPluginGameMgr"
+				},
+				{
+					"class": "chengyudgr.plugins.srvhttp.srvhttp.ChengyudgrPluginSrvHttp"
+				}
+			]
+		},
+		{
+			"targets": [
+				"GU"
+			],
+			"plugins": [
+				{
+					"class": "tuyoo5.plugins.gamemgr.gamemgr.TyPluginGameMgr"
+				},
+				{
+					"class": "chengyudgr.plugins.srvutil.srvutil.ChengyudgrPluginSrvutil"
+				},
+				{
+					"class": "chengyudgr.plugins.day1st.day1st.PluginDay1st"
+				}
+			]
+		},
+		{
+			"targets":[
+				"GS"
+			],
+			"plugins": [
+				{
+					"class": "tuyoo5.plugins.gamemgr.gamemgr.TyPluginGameMgr"
+				},
+				{
+					"class": "chengyudgr.plugins.srvjobs.srvjobs.ChengyudgrPluginSrvJobs"
+				}
+			]
+		}
+	]
+}

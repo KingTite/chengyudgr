@@ -1,0 +1,138 @@
+{
+    "10": {
+        "10_pianpi_0.json": 683, 
+        "10_pianpi_1.json": 1947, 
+        "10_pianpi_2.json": 2518, 
+        "10_pianpi_3.json": 1934, 
+        "10_pianpi_4.json": 1131, 
+        "10_pianpi_5.json": 464, 
+        "10_pianpi_6.json": 127, 
+        "10_pianpi_7.json": 20, 
+        "10_pianpi_8.json": 4
+    }, 
+    "11": {
+        "11_pianpi_0.json": 252, 
+        "11_pianpi_1.json": 1115, 
+        "11_pianpi_2.json": 2097, 
+        "11_pianpi_3.json": 2030, 
+        "11_pianpi_4.json": 1419, 
+        "11_pianpi_5.json": 691, 
+        "11_pianpi_6.json": 241, 
+        "11_pianpi_7.json": 74, 
+        "11_pianpi_8.json": 16, 
+        "11_pianpi_9.json": 1
+    }, 
+    "12": {
+        "12_pianpi_0.json": 68, 
+        "12_pianpi_1.json": 677, 
+        "12_pianpi_10.json": 12, 
+        "12_pianpi_2.json": 1446, 
+        "12_pianpi_3.json": 2032, 
+        "12_pianpi_4.json": 2651, 
+        "12_pianpi_5.json": 1831, 
+        "12_pianpi_6.json": 1497, 
+        "12_pianpi_7.json": 605, 
+        "12_pianpi_8.json": 204, 
+        "12_pianpi_9.json": 55
+    }, 
+    "13": {
+        "13_pianpi_0.json": 212, 
+        "13_pianpi_1.json": 196, 
+        "13_pianpi_10.json": 41, 
+        "13_pianpi_11.json": 5, 
+        "13_pianpi_12.json": 1, 
+        "13_pianpi_2.json": 508, 
+        "13_pianpi_3.json": 901, 
+        "13_pianpi_4.json": 1188, 
+        "13_pianpi_5.json": 1177, 
+        "13_pianpi_6.json": 912, 
+        "13_pianpi_7.json": 590, 
+        "13_pianpi_8.json": 312, 
+        "13_pianpi_9.json": 99
+    }, 
+    "14": {
+        "14_pianpi_0.json": 94, 
+        "14_pianpi_1.json": 90, 
+        "14_pianpi_10.json": 62, 
+        "14_pianpi_11.json": 18, 
+        "14_pianpi_12.json": 9, 
+        "14_pianpi_2.json": 171, 
+        "14_pianpi_3.json": 351, 
+        "14_pianpi_4.json": 435, 
+        "14_pianpi_5.json": 468, 
+        "14_pianpi_6.json": 493, 
+        "14_pianpi_7.json": 401, 
+        "14_pianpi_8.json": 276, 
+        "14_pianpi_9.json": 161
+    }, 
+    "15": {
+        "15_pianpi_0.json": 18, 
+        "15_pianpi_1.json": 30, 
+        "15_pianpi_10.json": 30, 
+        "15_pianpi_11.json": 23, 
+        "15_pianpi_12.json": 6, 
+        "15_pianpi_13.json": 6, 
+        "15_pianpi_14.json": 1, 
+        "15_pianpi_2.json": 40, 
+        "15_pianpi_3.json": 57, 
+        "15_pianpi_4.json": 86, 
+        "15_pianpi_5.json": 117, 
+        "15_pianpi_6.json": 83, 
+        "15_pianpi_7.json": 84, 
+        "15_pianpi_8.json": 50, 
+        "15_pianpi_9.json": 57
+    }, 
+    "3": {
+        "3_pianpi_0.json": 87
+    }, 
+    "4": {
+        "4_pianpi_0.json": 88
+    }, 
+    "5": {
+        "5_pianpi_0.json": 2077, 
+        "5_pianpi_1.json": 13, 
+        "5_pianpi_2.json": 215, 
+        "5_pianpi_3.json": 31, 
+        "5_pianpi_4.json": 0
+    }, 
+    "6": {
+        "6_pianpi_0.json": 2098, 
+        "6_pianpi_1.json": 1779, 
+        "6_pianpi_2.json": 362, 
+        "6_pianpi_3.json": 752, 
+        "6_pianpi_4.json": 210, 
+        "6_pianpi_5.json": 34, 
+        "6_pianpi_6.json": 2
+    }, 
+    "7": {
+        "7_pianpi_0.json": 766, 
+        "7_pianpi_1.json": 877, 
+        "7_pianpi_2.json": 400, 
+        "7_pianpi_3.json": 5, 
+        "7_pianpi_4.json": 415, 
+        "7_pianpi_5.json": 309, 
+        "7_pianpi_6.json": 153, 
+        "7_pianpi_7.json": 36
+    }, 
+    "8": {
+        "8_pianpi_0.json": 668, 
+        "8_pianpi_1.json": 422, 
+        "8_pianpi_2.json": 95, 
+        "8_pianpi_3.json": 9, 
+        "8_pianpi_4.json": 13, 
+        "8_pianpi_5.json": 80, 
+        "8_pianpi_6.json": 131, 
+        "8_pianpi_7.json": 136, 
+        "8_pianpi_8.json": 58
+    }, 
+    "9": {
+        "9_pianpi_0.json": 586, 
+        "9_pianpi_1.json": 1232, 
+        "9_pianpi_2.json": 1294, 
+        "9_pianpi_3.json": 949, 
+        "9_pianpi_4.json": 482, 
+        "9_pianpi_5.json": 151, 
+        "9_pianpi_6.json": 39, 
+        "9_pianpi_7.json": 6
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "30": {
+        "goods": "TYCY20312C810004", 
+        "indexID": 1, 
+        "level": 30
+    }, 
+    "55": {
+        "goods": "TYCY20312C810005", 
+        "indexID": 2, 
+        "level": 55
+    }, 
+    "85": {
+        "goods": "TYCY20312C810006", 
+        "indexID": 3, 
+        "level": 85
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "cydgr_mrjm_time_rank": {
+        "rank_name": "cydgr_mrjm_time_rank",
+        "type": 0,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": true,
+        "des": "成语大官人每日解谜闯关用时排行榜【日榜零点清】"
+    },
+
+    "cydgr_mrjm_flower_rank": {
+        "rank_name": "cydgr_mrjm_flower_rank",
+        "type": 1,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人每日解谜获得鲜花排行榜【总榜】"
+    },
+
+    "cydgr_stage_rank": {
+        "rank_name": "cydgr_stage_rank",
+        "type": 1,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人通关进度排行榜【总榜】"
+    },
+
+    "qq_cydgr_stage_rank": {
+        "rank_name": "qq_cydgr_stage_rank",
+        "type": 1,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人qq通关进度排行榜【总榜】"
+    },
+
+    "wx_cydgr_stage_rank": {
+        "rank_name": "wx_cydgr_stage_rank",
+        "type": 1,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人wx小游戏通关进度排行榜【总榜】"
+    },
+
+    "cydgr_stage_day_progress_rank": {
+        "rank_name": "cydgr_stage_day_progress_rank",
+        "type": 0,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人每日通关进度排行榜【日榜】"
+    },
+
+    "cydgr_kejv_rank":{
+        "rank_name": "cydgr_kejv_rank",
+        "type": 2,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人科举分数赛季排行【每个赛季清】"
+    },
+
+    "cydgr_hard_day_rank": {
+        "rank_name": "cydgr_hard_day_rank",
+        "type": 0,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人极限玩法排行榜【日榜】"
+    },
+    "cydgr_hard_rank": {
+        "rank_name": "cydgr_hard_rank",
+        "type": 1,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人极限玩法总排行榜【总榜】"
+    },
+    "qq_cydgr_hard_rank": {
+        "rank_name": "qq_cydgr_hard_rank",
+        "type": 1,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人qq极限玩法总排行榜【总榜】"
+    },
+    "wx_cydgr_hard_rank": {
+        "rank_name": "wx_cydgr_hard_rank",
+        "type": 1,
+        "rank_num": 100,
+        "rank_max": 1000,
+        "asc_order": false,
+        "des": "成语大官人微信小游戏极限玩法总排行榜【总榜】"
+    }
+}

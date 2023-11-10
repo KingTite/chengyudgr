@@ -1,0 +1,17 @@
+[
+  {
+      "type": "resetRank",
+      "triggertime": "00:00:00",
+      "rank_type": 0
+  },
+  {
+      "type": "send_wx_contact",
+      "triggertime": "08:03:00",
+      "rank_type": 0
+  },
+  {
+      "type": "send_wx_contact",
+      "triggertime": "19:33:00",
+      "rank_type": 0
+  }
+]

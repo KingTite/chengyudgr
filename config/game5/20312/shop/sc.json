@@ -1,0 +1,3183 @@
+[
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_huang", 
+        "id": 810001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P810001", 
+        "rmb": 18.0, 
+        "system": 0, 
+        "type": 2, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 810002, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2400元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P810002", 
+        "rmb": 6.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 810003, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 5050, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "5050元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P810003", 
+        "rmb": 12.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 810004, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 13300, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13300元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P810004", 
+        "rmb": 30.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 810005, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 30800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "30800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P810005", 
+        "rmb": 68.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 810006, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 64800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "64800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P810006", 
+        "rmb": 138.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 7
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_small", 
+        "id": 810013, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P810013", 
+        "rmb": 18.0, 
+        "system": 0, 
+        "type": 2, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810014, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1200, 
+                "first_gift": 1200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "1200元宝", 
+        "open": 0, 
+        "pic": "icon_libao1", 
+        "productId": "TYCY20312P810014", 
+        "rmb": 6.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810009, 
+        "is_show": 1, 
+        "item_addition": 0.05, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 2650, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2400元宝", 
+        "open": 0, 
+        "pic": "icon_libao2", 
+        "productId": "TYCY20312P810009", 
+        "rmb": 12.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810010, 
+        "is_show": 1, 
+        "item_addition": 0.1, 
+        "items": [
+            {
+                "count": 6000, 
+                "first_gift": 7300, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "6000元宝", 
+        "open": 0, 
+        "pic": "icon_libao3", 
+        "productId": "TYCY20312P810010", 
+        "rmb": 30.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810011, 
+        "is_show": 1, 
+        "item_addition": 0.12, 
+        "items": [
+            {
+                "count": 13600, 
+                "first_gift": 17200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13600元宝", 
+        "open": 0, 
+        "pic": "icon_libao4", 
+        "productId": "TYCY20312P810011", 
+        "rmb": 68.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810012, 
+        "is_show": 1, 
+        "item_addition": 0.15, 
+        "items": [
+            {
+                "count": 27600, 
+                "first_gift": 37200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "27600元宝", 
+        "open": 0, 
+        "pic": "icon_libao5", 
+        "productId": "TYCY20312P810012", 
+        "rmb": 138.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 7
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_small", 
+        "id": 810013, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P810013", 
+        "rmb": 18.0, 
+        "system": 0, 
+        "type": 2, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 1, 
+                "first_gift": 0, 
+                "item_id": 10005, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告促销", 
+        "open": 0, 
+        "pic": "icon_libao6", 
+        "productId": "TYCY20312C810001", 
+        "rmb": 30.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010002, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 50, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }, 
+            {
+                "count": 6, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "书卷促销", 
+        "open": 0, 
+        "pic": "icon_libao7", 
+        "productId": "TYCY20312C810002", 
+        "rmb": 12.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010003, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 15, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }, 
+            {
+                "count": 13, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "火箭促销", 
+        "open": 0, 
+        "pic": "icon_libao8", 
+        "productId": "TYCY20312C810003", 
+        "rmb": 25.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010004, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 666, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 15, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }, 
+            {
+                "count": 2, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "提示促销", 
+        "open": 0, 
+        "pic": "icon_libao9", 
+        "productId": "TYCY20312C810004", 
+        "rmb": 12.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010005, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 25, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "火箭促销", 
+        "open": 0, 
+        "pic": "icon_libao10", 
+        "productId": "TYCY20312C810005", 
+        "rmb": 30.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010006, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 30, 
+                "first_gift": 0, 
+                "item_id": 10009, 
+                "type": 1
+            }, 
+            {
+                "count": 5, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }, 
+            {
+                "count": 2, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "蜜蜂促销", 
+        "open": 0, 
+        "pic": "icon_libao11", 
+        "productId": "TYCY20312C810006", 
+        "rmb": 18.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010007, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1200, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao6", 
+        "productId": "TYCY20312C810007", 
+        "rmb": 6.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010008, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 4, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao7", 
+        "productId": "TYCY20312C810008", 
+        "rmb": 12.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010009, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 6000, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 64, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao8", 
+        "productId": "TYCY20312C810009", 
+        "rmb": 30.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010010, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 13600, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 20, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao9", 
+        "productId": "TYCY20312C810010", 
+        "rmb": 68.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010011, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 27600, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 50, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao10", 
+        "productId": "TYCY20312C810011", 
+        "rmb": 128.0, 
+        "system": 0, 
+        "type": 3, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810014, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1200, 
+                "first_gift": 1200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "1200元宝", 
+        "open": 0, 
+        "pic": "icon_libao1", 
+        "productId": "TYCY20312P810014", 
+        "rmb": 6.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810009, 
+        "is_show": 1, 
+        "item_addition": 0.05, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 2650, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2400元宝", 
+        "open": 0, 
+        "pic": "icon_libao2", 
+        "productId": "TYCY20312P810009", 
+        "rmb": 12.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810010, 
+        "is_show": 1, 
+        "item_addition": 0.1, 
+        "items": [
+            {
+                "count": 6000, 
+                "first_gift": 7300, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "6000元宝", 
+        "open": 0, 
+        "pic": "icon_libao3", 
+        "productId": "TYCY20312P810010", 
+        "rmb": 30.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810011, 
+        "is_show": 1, 
+        "item_addition": 0.12, 
+        "items": [
+            {
+                "count": 13600, 
+                "first_gift": 17200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13600元宝", 
+        "open": 0, 
+        "pic": "icon_libao4", 
+        "productId": "TYCY20312P810011", 
+        "rmb": 68.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810012, 
+        "is_show": 1, 
+        "item_addition": 0.15, 
+        "items": [
+            {
+                "count": 27600, 
+                "first_gift": 37200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "27600元宝", 
+        "open": 0, 
+        "pic": "icon_libao5", 
+        "productId": "TYCY20312P810012", 
+        "rmb": 138.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 7
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810016, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 20, 
+                "first_gift": 0, 
+                "item_id": 45, 
+                "type": 2
+            }, 
+            {
+                "count": 2, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "门客礼包", 
+        "open": 0, 
+        "pic": "wife_libao5", 
+        "productId": "TYCY20312P810016", 
+        "rmb": 45.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 10
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810017, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 6, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }, 
+            {
+                "count": 6, 
+                "first_gift": 0, 
+                "item_id": 10009, 
+                "type": 1
+            }, 
+            {
+                "count": 20, 
+                "first_gift": 0, 
+                "item_id": 11003, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "提升礼包", 
+        "open": 0, 
+        "pic": "wife_libao6", 
+        "productId": "TYCY20312P810017", 
+        "rmb": 28.0, 
+        "system": 0, 
+        "type": 1, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 11
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810018, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 12002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "政绩升级", 
+        "open": 0, 
+        "pic": "ico_08", 
+        "productId": "TYCY20312P810018", 
+        "rmb": 40.0, 
+        "system": 0, 
+        "type": 4, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 9
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810019, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 12002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "政绩升级", 
+        "open": 0, 
+        "pic": "ico_08", 
+        "productId": "TYCY20312P810019", 
+        "rmb": 18.0, 
+        "system": 0, 
+        "type": 4, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 9
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_huang", 
+        "id": 920001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P920001", 
+        "rmb": 18.0, 
+        "system": 1, 
+        "type": 2, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920002, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2400元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920002", 
+        "rmb": 6.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920003, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 5050, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "5050元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920003", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920004, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 13300, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13300元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920004", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920005, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 30800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "30800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920005", 
+        "rmb": 68.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920006, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 64800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "64800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920006", 
+        "rmb": 138.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 7
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_huang", 
+        "id": 920001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P920001", 
+        "rmb": 18.0, 
+        "system": 1, 
+        "type": 2, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920002, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2400元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920002", 
+        "rmb": 6.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920003, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 5050, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "5050元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920003", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920004, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 13300, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13300元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920004", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920005, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 30800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "30800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920005", 
+        "rmb": 68.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920006, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 64800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "64800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920006", 
+        "rmb": 138.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 7
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_huang", 
+        "id": 920001, 
+        "is_show": 0, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P920001", 
+        "rmb": 18.0, 
+        "system": 1, 
+        "type": 2, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920002, 
+        "is_show": 0, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2400元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920002", 
+        "rmb": 6.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920003, 
+        "is_show": 0, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 5050, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "5050元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920003", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920004, 
+        "is_show": 0, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 13300, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13300元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920004", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920005, 
+        "is_show": 0, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 30800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "30800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920005", 
+        "rmb": 68.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 920006, 
+        "is_show": 0, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 64800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "64800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P920006", 
+        "rmb": 138.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 7
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920008, 
+        "is_show": 0, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1200, 
+                "first_gift": 1200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "1200元宝", 
+        "open": 0, 
+        "pic": "icon_libao1", 
+        "productId": "TYCY20312P920008", 
+        "rmb": 6.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920009, 
+        "is_show": 0, 
+        "item_addition": 0.05, 
+        "items": [
+            {
+                "count": 2500, 
+                "first_gift": 2650, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2500元宝", 
+        "open": 0, 
+        "pic": "icon_libao2", 
+        "productId": "TYCY20312P920009", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920010, 
+        "is_show": 0, 
+        "item_addition": 0.1, 
+        "items": [
+            {
+                "count": 6000, 
+                "first_gift": 7300, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "6000元宝", 
+        "open": 0, 
+        "pic": "icon_libao3", 
+        "productId": "TYCY20312P920010", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920011, 
+        "is_show": 0, 
+        "item_addition": 0.12, 
+        "items": [
+            {
+                "count": 13600, 
+                "first_gift": 17200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13600元宝", 
+        "open": 0, 
+        "pic": "icon_libao4", 
+        "productId": "TYCY20312P920011", 
+        "rmb": 68.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920012, 
+        "is_show": 0, 
+        "item_addition": 0.15, 
+        "items": [
+            {
+                "count": 27600, 
+                "first_gift": 37200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "27600元宝", 
+        "open": 0, 
+        "pic": "icon_libao5", 
+        "productId": "TYCY20312P920012", 
+        "rmb": 138.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 7
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_small", 
+        "id": 920001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P920001", 
+        "rmb": 18.0, 
+        "system": 1, 
+        "type": 2, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 1, 
+                "first_gift": 0, 
+                "item_id": 10005, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告促销", 
+        "open": 0, 
+        "pic": "icon_libao6", 
+        "productId": "TYCY20312C810001", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010002, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 50, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }, 
+            {
+                "count": 6, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "书卷促销", 
+        "open": 0, 
+        "pic": "icon_libao7", 
+        "productId": "TYCY20312C810002", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010003, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 15, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }, 
+            {
+                "count": 13, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "火箭促销", 
+        "open": 0, 
+        "pic": "icon_libao8", 
+        "productId": "TYCY20312C810003", 
+        "rmb": 25.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010004, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 666, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 15, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }, 
+            {
+                "count": 2, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "提示促销", 
+        "open": 0, 
+        "pic": "icon_libao9", 
+        "productId": "TYCY20312C810004", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010005, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 25, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "火箭促销", 
+        "open": 0, 
+        "pic": "icon_libao10", 
+        "productId": "TYCY20312C810005", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010006, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 30, 
+                "first_gift": 0, 
+                "item_id": 10009, 
+                "type": 1
+            }, 
+            {
+                "count": 5, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }, 
+            {
+                "count": 2, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "蜜蜂促销", 
+        "open": 0, 
+        "pic": "icon_libao11", 
+        "productId": "TYCY20312C810006", 
+        "rmb": 18.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810016, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 20, 
+                "first_gift": 0, 
+                "item_id": 45, 
+                "type": 2
+            }, 
+            {
+                "count": 2, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "门客礼包", 
+        "open": 0, 
+        "pic": "wife_libao5", 
+        "productId": "TYCY20312P810016", 
+        "rmb": 45.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 10
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810017, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 6, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }, 
+            {
+                "count": 6, 
+                "first_gift": 0, 
+                "item_id": 10009, 
+                "type": 1
+            }, 
+            {
+                "count": 20, 
+                "first_gift": 0, 
+                "item_id": 11003, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "提升礼包", 
+        "open": 0, 
+        "pic": "wife_libao6", 
+        "productId": "TYCY20312P810017", 
+        "rmb": 28.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 11
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810018, 
+        "is_show": 1, 
+        "item_addition": 0.12, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 12002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "政绩升级", 
+        "open": 0, 
+        "pic": "ico_08", 
+        "productId": "TYCY20312P810018", 
+        "rmb": 40.0, 
+        "system": 1, 
+        "type": 4, 
+        "version": [
+            "shop3"
+        ], 
+        "weight": 9
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_small", 
+        "id": 920001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P920001", 
+        "rmb": 18.0, 
+        "system": 1, 
+        "type": 2, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 1, 
+                "first_gift": 0, 
+                "item_id": 10005, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告促销", 
+        "open": 0, 
+        "pic": "icon_libao6", 
+        "productId": "TYCY20312C810001", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010002, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 50, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }, 
+            {
+                "count": 6, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "书卷促销", 
+        "open": 0, 
+        "pic": "icon_libao7", 
+        "productId": "TYCY20312C810002", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010003, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 15, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }, 
+            {
+                "count": 13, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "火箭促销", 
+        "open": 0, 
+        "pic": "icon_libao8", 
+        "productId": "TYCY20312C810003", 
+        "rmb": 25.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010004, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 666, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 15, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }, 
+            {
+                "count": 2, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "提示促销", 
+        "open": 0, 
+        "pic": "icon_libao9", 
+        "productId": "TYCY20312C810004", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010005, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 25, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "火箭促销", 
+        "open": 0, 
+        "pic": "icon_libao10", 
+        "productId": "TYCY20312C810005", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010006, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 888, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 30, 
+                "first_gift": 0, 
+                "item_id": 10009, 
+                "type": 1
+            }, 
+            {
+                "count": 5, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }, 
+            {
+                "count": 2, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "蜜蜂促销", 
+        "open": 0, 
+        "pic": "icon_libao11", 
+        "productId": "TYCY20312C810006", 
+        "rmb": 18.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010007, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1200, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 8, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao6", 
+        "productId": "TYCY20312C810007", 
+        "rmb": 6.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010008, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 4, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao7", 
+        "productId": "TYCY20312C810008", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010009, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 6000, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 64, 
+                "first_gift": 0, 
+                "item_id": 10002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao8", 
+        "productId": "TYCY20312C810009", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010010, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 13600, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 20, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao9", 
+        "productId": "TYCY20312C810010", 
+        "rmb": 68.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 24, 
+        "frame_pic": "bg_shangcheng2", 
+        "id": 1010011, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 27600, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 50, 
+                "first_gift": 0, 
+                "item_id": 10004, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "折扣促销", 
+        "open": 0, 
+        "pic": "icon_libao10", 
+        "productId": "TYCY20312C810011", 
+        "rmb": 128.0, 
+        "system": 1, 
+        "type": 3, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 1
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920008, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1200, 
+                "first_gift": 1200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "1200元宝", 
+        "open": 0, 
+        "pic": "icon_libao1", 
+        "productId": "TYCY20312P920008", 
+        "rmb": 6.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920009, 
+        "is_show": 1, 
+        "item_addition": 0.05, 
+        "items": [
+            {
+                "count": 2500, 
+                "first_gift": 2650, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2500元宝", 
+        "open": 0, 
+        "pic": "icon_libao2", 
+        "productId": "TYCY20312P920009", 
+        "rmb": 12.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920010, 
+        "is_show": 1, 
+        "item_addition": 0.1, 
+        "items": [
+            {
+                "count": 6000, 
+                "first_gift": 7300, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "6000元宝", 
+        "open": 0, 
+        "pic": "icon_libao3", 
+        "productId": "TYCY20312P920010", 
+        "rmb": 30.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920011, 
+        "is_show": 1, 
+        "item_addition": 0.12, 
+        "items": [
+            {
+                "count": 13600, 
+                "first_gift": 17200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13600元宝", 
+        "open": 0, 
+        "pic": "icon_libao4", 
+        "productId": "TYCY20312P920011", 
+        "rmb": 68.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 920012, 
+        "is_show": 1, 
+        "item_addition": 0.15, 
+        "items": [
+            {
+                "count": 27600, 
+                "first_gift": 37200, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "27600元宝", 
+        "open": 0, 
+        "pic": "icon_libao5", 
+        "productId": "TYCY20312P920012", 
+        "rmb": 138.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 7
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810016, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 20, 
+                "first_gift": 0, 
+                "item_id": 45, 
+                "type": 2
+            }, 
+            {
+                "count": 2, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "门客礼包", 
+        "open": 0, 
+        "pic": "wife_libao5", 
+        "productId": "TYCY20312P810016", 
+        "rmb": 45.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 10
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810017, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }, 
+            {
+                "count": 6, 
+                "first_gift": 0, 
+                "item_id": 10007, 
+                "type": 1
+            }, 
+            {
+                "count": 6, 
+                "first_gift": 0, 
+                "item_id": 10009, 
+                "type": 1
+            }, 
+            {
+                "count": 20, 
+                "first_gift": 0, 
+                "item_id": 11003, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "提升礼包", 
+        "open": 0, 
+        "pic": "wife_libao6", 
+        "productId": "TYCY20312P810017", 
+        "rmb": 28.0, 
+        "system": 1, 
+        "type": 1, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 11
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810018, 
+        "is_show": 1, 
+        "item_addition": 0.12, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 12002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "政绩升级", 
+        "open": 0, 
+        "pic": "ico_08", 
+        "productId": "TYCY20312P810018", 
+        "rmb": 40.0, 
+        "system": 1, 
+        "type": 4, 
+        "version": [
+            "shop4"
+        ], 
+        "weight": 9
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_big", 
+        "id": 810019, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 12002, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "政绩升级", 
+        "open": 0, 
+        "pic": "ico_08", 
+        "productId": "TYCY20312P810019", 
+        "rmb": 18.0, 
+        "system": 1, 
+        "type": 4, 
+        "version": [
+            "shop3", 
+            "shop4"
+        ], 
+        "weight": 9
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_huang", 
+        "id": 720001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P720001", 
+        "rmb": 18.0, 
+        "system": 2, 
+        "type": 2, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720002, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2400元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720002", 
+        "rmb": 6.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720003, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 5050, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "5050元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720003", 
+        "rmb": 12.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720004, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 13300, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13300元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720004", 
+        "rmb": 30.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720005, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 30800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "30800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720005", 
+        "rmb": 68.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720006, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 64800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "64800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720006", 
+        "rmb": 138.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop1"
+        ], 
+        "weight": 7
+    }, 
+    {
+        "ad_remove": 1, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_huang", 
+        "id": 720001, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 1, 
+                "item_id": 10005, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "去广告", 
+        "open": 0, 
+        "pic": "icon_removeAD", 
+        "productId": "TYCY20312P720001", 
+        "rmb": 18.0, 
+        "system": 2, 
+        "type": 2, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 2
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720002, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 2400, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "2400元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720002", 
+        "rmb": 6.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 3
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720003, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 5050, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "5050元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720003", 
+        "rmb": 12.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 4
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720004, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 13300, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "13300元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720004", 
+        "rmb": 30.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 5
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720005, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 30800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "30800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720005", 
+        "rmb": 68.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 6
+    }, 
+    {
+        "ad_remove": 0, 
+        "discount_timer": 0, 
+        "frame_pic": "bg_hui", 
+        "id": 720006, 
+        "is_show": 1, 
+        "item_addition": 0.0, 
+        "items": [
+            {
+                "count": 64800, 
+                "first_gift": 0, 
+                "item_id": 10001, 
+                "type": 1
+            }
+        ], 
+        "limit": 0, 
+        "name": "64800元宝", 
+        "open": 0, 
+        "pic": "icon_yuanbao", 
+        "productId": "TYCY20312P720006", 
+        "rmb": 138.0, 
+        "system": 2, 
+        "type": 1, 
+        "version": [
+            "shop2"
+        ], 
+        "weight": 7
+    }
+]

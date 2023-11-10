@@ -1,0 +1,9 @@
+{
+    "max_questionId": 8800,
+    "min_stage_time": 5,
+    "max_day_questionId": 1000,
+    "max_hard_questionId": 2000,
+    "max_seasonScore": 3600,
+    "max_mrjm_flower": 3,
+    "max_mrjm_time": 10
+}
